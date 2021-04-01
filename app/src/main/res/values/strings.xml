@@ -1,0 +1,19 @@
+<!--<resources>-->
+<!--</resources>-->
+
+<resources>
+    <string name="app_name">My Github User App</string>
+    <string name="nama_user">Nama User :</string>
+    <string name="username">Username :</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="nulled">NULL</string>
+    <string name="github_user">Github User Info</string>
+    <string name="location">Location</string>
+    <string name="work">Work</string>
+    <string name="repositories">Repositories</string>
+    <string name="createdBy">Created By Akhmad Khairul Mujidi</string>
+    <string name="created_by_akhmad_khairul_mujidi">Created By MySelf</string>
+    <string name="work_at">Work at : </string>
+    <string name="ccc">ccc</string>
+</resources>
